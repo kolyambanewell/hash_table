@@ -1,3 +1,5 @@
+//Hello, my name is Nikolay and this is my First project at GitHub
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
